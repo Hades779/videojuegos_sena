@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [
+    {"name":"group1","order":5,"path":"folders/group1.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Spr_bad_man_rum","order":1,"path":"sprites/Spr_bad_man_rum/Spr_bad_man_rum.yy",},
+    {"name":"Obj_wall","order":4,"path":"objects/Obj_wall/Obj_wall.yy",},
+    {"name":"Spr_bad_men_idle","order":2,"path":"sprites/Spr_bad_men_idle/Spr_bad_men_idle.yy",},
+    {"name":"Spr_wall","order":3,"path":"sprites/Spr_wall/Spr_wall.yy",},
+  ],
+}
