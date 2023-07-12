@@ -14,6 +14,7 @@
   "defaultScriptType": 0,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"group1","folderPath":"folders/group1.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"group2","folderPath":"folders/group2.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -23,7 +24,9 @@
   },
   "resources": [
     {"id":{"name":"Obj_carita","path":"objects/Obj_carita/Obj_carita.yy",},},
-    {"id":{"name":"Spr_bad_man_rum","path":"sprites/Spr_bad_man_rum/Spr_bad_man_rum.yy",},},
+    {"id":{"name":"Obj_paredx2","path":"objects/Obj_paredx2/Obj_paredx2.yy",},},
+    {"id":{"name":"Spr_paredx2","path":"sprites/Spr_paredx2/Spr_paredx2.yy",},},
+    {"id":{"name":"RUN","path":"sprites/RUN/RUN.yy",},},
     {"id":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},},
     {"id":{"name":"Spr_bad_men_idle","path":"sprites/Spr_bad_men_idle/Spr_bad_men_idle.yy",},},
     {"id":{"name":"Spr_wall","path":"sprites/Spr_wall/Spr_wall.yy",},},
